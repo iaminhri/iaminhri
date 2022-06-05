@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iaminhridoy
-- 👀 I’m interested in Computer Science, Game Development, Programming and Whatever can be represent with 0' and 1's, I will gobble it down xD...
+- 👀 I’m interested in Computer Science, Game Development, Programming and Whatever can be represented with 0' and 1's, I will gobble it down xD...
 - 🌱 I’m currently learning Game Development And mostly all the other aspects of it
 
 <!---
